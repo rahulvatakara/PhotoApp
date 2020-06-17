@@ -9,4 +9,8 @@ An IOS application for fetching the photos from API and display photos like Gall
 
 ## Screenshots
 
-![Alt text](Sreenshots/Simulator Screen Shot - iPhone 11 Pro Max - 2020-06-17 at 10.29.45.png?raw=true "Title")
+<img src="/Sreenshots/1.png" width="200" height="400">    <img src="/Sreenshots/2.png" width="200" height="400">
+
+<img src="/Sreenshots/3.png" width="200" height="400">    <img src="/Sreenshots/4.png" width="200" height="400">
+
+<img src="/Sreenshots/5.png" width="200" height="400">    <img src="/Sreenshots/6.png" width="200" height="400">
